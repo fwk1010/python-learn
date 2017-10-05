@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-This file is to learn string type more detail.
+This file is to learn about string type more detail.
 '''
 # Get length
 s1 = "hello,world"
@@ -34,5 +34,5 @@ print(s6.strip())  # both right and left
 # location
 s7 = "a"
 s8 = "absccab"
-print(s8.index(s7)) # if can not find then the substring throw ValueError
+print(s8.index(s7)) # if can not find the the substring then throw ValueError
 print(s8.find(s7)) # if can not find the substring then return -1
