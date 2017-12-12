@@ -8,4 +8,5 @@ A collection demos of python learn.Using Python 3.6.1
 5.[tuple](https://github.com/fwk1010/python-learn/blob/master/tuple.py)  
 6.[dictionary](https://github.com/fwk1010/python-learn/blob/master/dictionary.py)  
 7.[set](https://github.com/fwk1010/python-learn/blob/master/set.py)  
-8.[conditionals](https://github.com/fwk1010/python-learn/blob/master/conditionals.py)
+8.[conditionals](https://github.com/fwk1010/python-learn/blob/master/conditionals.py)  
+9.[loop](https://github.com/fwk1010/python-learn/blob/master/loop.py)  
