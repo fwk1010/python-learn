@@ -10,3 +10,4 @@ A collection demos of python learn.Using Python 3.6.1
 7.[set](https://github.com/fwk1010/python-learn/blob/master/set.py)  
 8.[conditionals](https://github.com/fwk1010/python-learn/blob/master/conditionals.py)  
 9.[loop](https://github.com/fwk1010/python-learn/blob/master/loop.py)  
+10.[function](https://github.com/fwk1010/python-learn/blob/master/function.py)  
