@@ -2,10 +2,10 @@
 '''
 This file is to learn about module more detail.
 '''
-# Import a exits module,like time
+# Import an exist module,like time
 import time
 
-# Import a exits module partly,like pi in math
+# Import an exist module partly,like pi in math
 from math import pi
 
 print("localtime:",time.localtime())
