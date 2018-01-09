@@ -13,3 +13,4 @@ A collection demos of python learn.Using Python 3.6.1
 10.[function](https://github.com/fwk1010/python-learn/blob/master/function.py)  
 11.[module](https://github.com/fwk1010/python-learn/blob/master/module.py)  
 12.[class](https://github.com/fwk1010/python-learn/blob/master/glass.py)  
+13.[class](https://github.com/fwk1010/python-learn/blob/master/exception.py)  
