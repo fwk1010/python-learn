@@ -21,6 +21,8 @@ class TestCase():
             print('exception message:',e)
         else:
             print(result)
+        finally:
+            pass
 
 if __name__ == '__main__':
     
