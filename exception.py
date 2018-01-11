@@ -24,6 +24,21 @@ class TestCase():
         finally:
             pass
 
+class TestCase2():
+    # case4 throw exception
+    def throw_exception(self,a):
+        if a == 0:
+            raise ValueError('a is zero!')
+
+ # case5 define self exception   
+class myException(ValueError):
+    pass
+
+def show_self_exception():
+    raise myException('hhhhh')
+        
+
+
 if __name__ == '__main__':
     
     test = TestCase()
@@ -34,4 +49,10 @@ if __name__ == '__main__':
     # case3 
     test.handle_exception(5,2)
     test.handle_exception(5,0)
+    #######
+    test2 = TestCase2()
+    # case4
+    # test2.throw_exception(0)
+    # case5
+    # show_self_exception()
 
