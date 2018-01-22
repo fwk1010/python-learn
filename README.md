@@ -15,3 +15,4 @@ A collection demos of python learn.Using Python 3.6.1
 12.[class](https://github.com/fwk1010/python-learn/blob/master/glass.py)  
 13.[exception](https://github.com/fwk1010/python-learn/blob/master/exception.py)  
 14.[log](https://github.com/fwk1010/python-learn/blob/master/log.py)  
+15.[io](https://github.com/fwk1010/python-learn/blob/master/io.py) 
